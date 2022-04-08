@@ -4,8 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetupAPI", "MeetupAPI.csproj", "{8943EB8E-213D-4EAF-B386-91F706351646}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FA03D01A-B0FB-431A-9380-03FDA0457855} = {FA03D01A-B0FB-431A-9380-03FDA0457855}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{40B13936-6DCC-4DC1-AC53-E18850D81B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "..\Contracts\Contracts.csproj", "{D2AD7174-5B99-45B9-9260-A0683D1AC708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "..\LoggerService\LoggerService.csproj", "{FA03D01A-B0FB-431A-9380-03FDA0457855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +28,14 @@ Global
 		{40B13936-6DCC-4DC1-AC53-E18850D81B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B13936-6DCC-4DC1-AC53-E18850D81B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B13936-6DCC-4DC1-AC53-E18850D81B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AD7174-5B99-45B9-9260-A0683D1AC708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AD7174-5B99-45B9-9260-A0683D1AC708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AD7174-5B99-45B9-9260-A0683D1AC708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AD7174-5B99-45B9-9260-A0683D1AC708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA03D01A-B0FB-431A-9380-03FDA0457855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA03D01A-B0FB-431A-9380-03FDA0457855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA03D01A-B0FB-431A-9380-03FDA0457855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA03D01A-B0FB-431A-9380-03FDA0457855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

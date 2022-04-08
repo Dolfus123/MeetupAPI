@@ -13,6 +13,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using NLog;
+using System.IO;
 
 namespace MeetupAPI
 {
@@ -20,7 +22,9 @@ namespace MeetupAPI
     {
         public Startup(IConfiguration configuration)
         {
+            LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
             Configuration = configuration;
+            
         }
 
         public IConfiguration Configuration { get; }
@@ -32,6 +36,7 @@ namespace MeetupAPI
             services.ConfigureIISIntegration();
 
             services.ConfigureMySqlContext(Configuration);
+            services.ConfigureLoggerService();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
