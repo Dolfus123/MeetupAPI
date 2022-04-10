@@ -27,7 +27,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "K:\\meetup\\Entities\\Entities.csproj": {
+                "projectPath": "K:\\meetup\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -210,9 +214,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "K:\\meetup\\Entities\\Entities.csproj": {
-                "projectPath": "K:\\meetup\\Entities\\Entities.csproj"
-              },
               "K:\\meetup\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "K:\\meetup\\LoggerService\\LoggerService.csproj"
               },
@@ -289,9 +290,6 @@
             "projectReferences": {
               "K:\\meetup\\Contracts\\Contracts.csproj": {
                 "projectPath": "K:\\meetup\\Contracts\\Contracts.csproj"
-              },
-              "K:\\meetup\\Entities\\Entities.csproj": {
-                "projectPath": "K:\\meetup\\Entities\\Entities.csproj"
               }
             }
           }

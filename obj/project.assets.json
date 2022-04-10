@@ -309,6 +309,9 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
@@ -348,8 +351,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Contracts": "1.0.0",
-          "Entities": "1.0.0"
+          "Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Repository.dll": {}
@@ -985,7 +987,6 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Entities >= 1.0.0",
       "LoggerService >= 1.0.0",
       "NLog.Extensions.Logging >= 1.7.4",
       "Repository >= 1.0.0",
@@ -1019,9 +1020,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "K:\\meetup\\Entities\\Entities.csproj": {
-              "projectPath": "K:\\meetup\\Entities\\Entities.csproj"
-            },
             "K:\\meetup\\LoggerService\\LoggerService.csproj": {
               "projectPath": "K:\\meetup\\LoggerService\\LoggerService.csproj"
             },
