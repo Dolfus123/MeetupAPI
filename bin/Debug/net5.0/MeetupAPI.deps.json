@@ -33,9 +33,9 @@
     ".NETCoreApp,Version=v5.0": {
       "MeetupAPI/1.0.0": {
         "dependencies": {
-          "Entities": "1.0.0",
           "LoggerService": "1.0.0",
           "NLog.Extensions.Logging": "1.7.4",
+          "Repository": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -559,6 +559,9 @@
         }
       },
       "Contracts/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "runtime": {
           "Contracts.dll": {}
         },
@@ -588,6 +591,17 @@
         },
         "compile": {
           "LoggerService.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        },
+        "compile": {
+          "Repository.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2477,6 +2491,11 @@
       "sha512": ""
     },
     "LoggerService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

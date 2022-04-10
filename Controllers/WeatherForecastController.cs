@@ -12,7 +12,19 @@ namespace MeetupAPI.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private readonly ILoggerManager _logger;
+        private IRepositoryWrapper _repoWrapper;
+        public WeatherForecastController(IRepositoryWrapper repository)
+        {
+            _repoWrapper = repository;
+        }
+        [HttpGet]
+        public IEnumerable<string> Get()
+        {
+            var domesticAccounts = _repoWrapper.Account.FindByCondition(x => x.AccountType.Equals("Domestic"));
+            var meetups = _repoWrapper.Meetup.FindAll();
+            return new string[] { "value1", "value2" };
+        }
+        /*private readonly ILoggerManager _logger;
         public WeatherForecastController(ILoggerManager logger)
         {
             _logger = logger;
@@ -25,6 +37,6 @@ namespace MeetupAPI.Controllers
             _logger.LogWarn("Here is warn message from the controller.");
             _logger.LogError("Here is error message from the controller.");
             return new string[] { "value1", "value2" };
-        }
+        }*/
     }
 }

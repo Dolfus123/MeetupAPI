@@ -37,6 +37,7 @@ namespace MeetupAPI
 
             services.ConfigureMySqlContext(Configuration);
             services.ConfigureLoggerService();
+            services.ConfigureRepositoryWapper();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

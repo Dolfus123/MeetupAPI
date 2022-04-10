@@ -43,3 +43,5 @@ K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
 K:\meetup\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
 K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
 K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.genruntimeconfig.cache
+K:\meetup\MeetupAPI\bin\Debug\net5.0\Repository.dll
+K:\meetup\MeetupAPI\bin\Debug\net5.0\Repository.pdb
