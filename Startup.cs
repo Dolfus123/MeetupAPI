@@ -39,6 +39,8 @@ namespace MeetupAPI
             services.ConfigureLoggerService();
             services.ConfigureRepositoryWapper();
 
+            services.AddAutoMapper(typeof(Startup));
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

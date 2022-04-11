@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Contracts;
+using AutoMapper;
+using Entities.DataTransferObjects;
 
 namespace MeetupAPI.Controllers
 {
@@ -14,10 +16,12 @@ namespace MeetupAPI.Controllers
     {
         private ILoggerManager _logger;
         private IRepositoryWrapper _repository;
-        public MeetupController(ILoggerManager logger, IRepositoryWrapper repository)
+        private IMapper _mapper;
+        public MeetupController(ILoggerManager logger, IRepositoryWrapper repository, IMapper mapper)
         {
             _logger = logger;
             _repository = repository;
+            _mapper = mapper;
         }
         [HttpGet]
         public IActionResult GetAllMeetups()
@@ -26,7 +30,10 @@ namespace MeetupAPI.Controllers
             {
                 var meetups = _repository.Meetup.GetAllMeetups();
                 _logger.LogInfo($"Returned all meetups from database.");
-                return Ok(meetups);
+
+                var meetupResult = _mapper.Map<IEnumerable<MeetupDto>>(meetups);
+
+                return Ok(meetupResult);
             }
             catch (Exception ex)
             {
