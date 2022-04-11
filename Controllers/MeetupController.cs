@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Contracts;
 using AutoMapper;
 using Entities.DataTransferObjects;
+using Entities.Models;
 
 namespace MeetupAPI.Controllers
 {
@@ -42,7 +43,7 @@ namespace MeetupAPI.Controllers
             }
         }
 
-        [HttpGet("id")]
+        [HttpGet("{id}", Name = "MeetupById") ]
         public IActionResult GetMeetupById (Guid id)
         {
             try
@@ -92,6 +93,34 @@ namespace MeetupAPI.Controllers
             catch (Exception ex)
             {
                 _logger.LogError($"Something went wrong inside GetMeetupWithDetails action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
+        [HttpPost]
+        public IActionResult CreateMeetup([FromBody] MeetupForCreationDto meetup)
+        {
+            try
+            {
+                if (meetup is null)
+                {
+                    _logger.LogError("Meetup object sent from client is null.");
+                    return BadRequest("Meetup object is null");
+                }
+                if (!ModelState.IsValid)
+                {
+                    _logger.LogError("Invalid meetup object sent from client.");
+                    return BadRequest("Invalid model object");
+                }
+                var meetupEntity = _mapper.Map<Meetup>(meetup);
+                _repository.Meetup.CreateMeetup(meetupEntity);
+                _repository.Save();
+                var createdMeetup = _mapper.Map<MeetupDto>(meetupEntity);
+                return CreatedAtRoute("MeetupById", new { id = createdMeetup.Id }, createdMeetup);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside CreateMeetup action: {ex.Message}");
                 return StatusCode(500, "Internal server error");
             }
         }
