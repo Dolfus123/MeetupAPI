@@ -13,6 +13,8 @@ namespace MeetupAPI
         public MappingProfile()
         {
             CreateMap<Meetup, MeetupDto>();
+            CreateMap<Account, AccountDto>();
+
         }
     }
 }
