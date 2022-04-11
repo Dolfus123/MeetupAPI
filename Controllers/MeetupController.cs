@@ -158,5 +158,32 @@ namespace MeetupAPI.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteMeetup(Guid id)
+        {
+            try
+            {
+                var meetup = _repository.Meetup.GetMeetupById(id);
+                if (meetup == null)
+                {
+                    _logger.LogError($"Meetup with id: {id}, hasn't been found in db.");
+                    return NotFound();
+                }
+                if (_repository.Account.AccountsByMeetup(id).Any())
+                {
+                    _logger.LogError($"Cannot delete meetup with id: {id}. It has related accounts. Delete those accounts first");
+                    return BadRequest("Cannot delete meetup. It has related accounts. Delete those accounts first");
+                }
+                _repository.Meetup.DeleteMeetup(meetup);
+                _repository.Save();
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside DeleteMeetup action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
     }
 }
