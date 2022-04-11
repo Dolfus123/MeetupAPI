@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "K:\\meetup\\MeetupAPI\\MeetupAPI.csproj": {}
+    "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj": {}
   },
   "projects": {
-    "K:\\meetup\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\meetup\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "K:\\meetup\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "K:\\meetup\\Contracts\\obj\\",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "K:\\meetup\\Entities\\Entities.csproj": {
-                "projectPath": "K:\\meetup\\Entities\\Entities.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj"
               }
             }
           }
@@ -58,21 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "K:\\meetup\\Entities\\Entities.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\meetup\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "K:\\meetup\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "K:\\meetup\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,21 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "K:\\meetup\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\meetup\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "K:\\meetup\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "K:\\meetup\\LoggerService\\obj\\",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,8 +150,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "K:\\meetup\\Contracts\\Contracts.csproj": {
-                "projectPath": "K:\\meetup\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -186,21 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "K:\\meetup\\MeetupAPI\\MeetupAPI.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\meetup\\MeetupAPI\\MeetupAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj",
         "projectName": "MeetupAPI",
-        "projectPath": "K:\\meetup\\MeetupAPI\\MeetupAPI.csproj",
-        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "K:\\meetup\\MeetupAPI\\obj\\",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj",
+        "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,11 +214,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "K:\\meetup\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "K:\\meetup\\LoggerService\\LoggerService.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj"
               },
-              "K:\\meetup\\Repository\\Repository.csproj": {
-                "projectPath": "K:\\meetup\\Repository\\Repository.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj"
               }
             }
           }
@@ -260,21 +260,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "K:\\meetup\\Repository\\Repository.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\meetup\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "K:\\meetup\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-        "outputPath": "K:\\meetup\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -288,8 +288,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "K:\\meetup\\Contracts\\Contracts.csproj": {
-                "projectPath": "K:\\meetup\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -318,7 +318,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

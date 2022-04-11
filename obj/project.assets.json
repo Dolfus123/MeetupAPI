@@ -994,19 +994,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anton\\.nuget\\packages\\": {}
+    "C:\\Users\\Евдоченко\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\meetup\\MeetupAPI\\MeetupAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj",
       "projectName": "MeetupAPI",
-      "projectPath": "K:\\meetup\\MeetupAPI\\MeetupAPI.csproj",
-      "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-      "outputPath": "K:\\meetup\\MeetupAPI\\obj\\",
+      "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj",
+      "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1020,11 +1020,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "K:\\meetup\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "K:\\meetup\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj"
             },
-            "K:\\meetup\\Repository\\Repository.csproj": {
-              "projectPath": "K:\\meetup\\Repository\\Repository.csproj"
+            "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj"
             }
           }
         }
@@ -1066,7 +1066,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
