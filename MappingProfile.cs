@@ -15,6 +15,7 @@ namespace MeetupAPI
             CreateMap<Meetup, MeetupDto>();
             CreateMap<Account, AccountDto>();
             CreateMap<MeetupForCreationDto, Meetup>();
+            CreateMap<MeetupForUpdateDto, Meetup>();
 
         }
     }

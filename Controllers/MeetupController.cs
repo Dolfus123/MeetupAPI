@@ -49,11 +49,12 @@ namespace MeetupAPI.Controllers
             try
             {
                 var meetup = _repository.Meetup.GetMeetupById(id);
-                return NotFound();
+                
 
-                if (meetup==null)
+                if (meetup is null)
                 {
                     _logger.LogError($"Meetup with id: {id}, hasn't been found in db.");
+                    return NotFound();
                 }
                 else
                 {
@@ -121,6 +122,39 @@ namespace MeetupAPI.Controllers
             catch (Exception ex)
             {
                 _logger.LogError($"Something went wrong inside CreateMeetup action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult UpdateMeetup(Guid id, [FromBody] MeetupForUpdateDto meetup)
+        {
+            try
+            {
+                if (meetup is null)
+                {
+                    _logger.LogError("Meetup object sent from client is null.");
+                    return BadRequest("Meetup object is null");
+                }
+                if (!ModelState.IsValid)
+                {
+                    _logger.LogError("Invalid meetup object sent from client.");
+                    return BadRequest("Invalid model object");
+                }
+                var meetupEntity = _repository.Meetup.GetMeetupById(id);
+                if (meetupEntity is null)
+                {
+                    _logger.LogError($"Meetup with id: {id}, hasn't been found in db.");
+                    return NotFound();
+                }
+                _mapper.Map(meetup, meetupEntity);
+                _repository.Meetup.UpdateMeetup(meetupEntity);
+                _repository.Save();
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside UpdateMeetup action: {ex.Message}");
                 return StatusCode(500, "Internal server error");
             }
         }
