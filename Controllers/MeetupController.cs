@@ -41,5 +41,33 @@ namespace MeetupAPI.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        [HttpGet("id")]
+        public IActionResult GetMeetupById (Guid id)
+        {
+            try
+            {
+                var meetup = _repository.Meetup.GetMeetupById(id);
+                return NotFound();
+
+                if (meetup==null)
+                {
+                    _logger.LogError($"Meetup with id: {id}, hasn't been found in db.");
+                }
+                else
+                {
+                    _logger.LogInfo($"Returned meetup with id: {id}");
+
+                    var meetupResult = _mapper.Map<MeetupDto>(meetup);
+                    return Ok(meetupResult);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError($"Something went wrong inside GetMeetupById action: {ex.Message}");
+                return StatusCode(500, "Internal server error");
+            }
+        }
     }
 }
