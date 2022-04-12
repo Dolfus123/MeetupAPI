@@ -35,7 +35,9 @@ namespace MeetupAPI
             services.ConfigureCors();
             services.ConfigureIISIntegration();
 
-            services.ConfigureMySqlContext(Configuration);
+            //services.ConfigureMySqlContext(Configuration);
+            services.ConfigureNpgsqlContext(Configuration);
+
             services.ConfigureLoggerService();
             services.ConfigureRepositoryWapper();
 

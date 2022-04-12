@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj": {}
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\MeetupAPI\\MeetupAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Entities\\Entities.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,8 +150,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\MeetupAPI\\MeetupAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\MeetupAPI\\MeetupAPI.csproj",
         "projectName": "MeetupAPI",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\MeetupAPI.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\MeetupAPI\\MeetupAPI.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\MeetupAPI\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\MeetupAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,11 +214,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\LoggerService\\LoggerService.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\LoggerService\\LoggerService.csproj"
               },
-              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Repository\\Repository.csproj"
               }
             }
           }
@@ -240,6 +240,10 @@
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[1.7.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -268,14 +272,14 @@
         }
       }
     },
-    "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -292,8 +296,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.11\\Contracts\\Contracts.csproj"
               }
             }
           }
