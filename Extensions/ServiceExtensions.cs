@@ -35,7 +35,8 @@ namespace MeetupAPI.Extensions
         public static void ConfigureNpgsqlContext(this IServiceCollection services, IConfiguration config)
         {
             var connectionString = config["npgsqlconnection:connectionString"];
-            services.AddDbContext<RepositoryContext>(o => o.UseNpgsql(connectionString));
+            services.AddDbContext<RepositoryContext>(o => o.UseNpgsql(connectionString,
+                assembly => assembly.MigrationsAssembly("MeetupAPI")));
         }
         public static void ConfigureMySqlContext(this IServiceCollection services, IConfiguration config)
         {
