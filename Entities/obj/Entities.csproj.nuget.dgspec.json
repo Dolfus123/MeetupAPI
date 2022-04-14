@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,10 +43,6 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.15, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[5.0.4, )"
             }
           },
           "imports": [

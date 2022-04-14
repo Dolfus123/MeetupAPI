@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\Repository.csproj": {}
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,10 +101,6 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.15, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[5.0.4, )"
             }
           },
           "imports": [
@@ -126,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\Repository.csproj": {
+    "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,8 +146,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\Contracts\\Contracts.csproj"
               }
             }
           }

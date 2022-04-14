@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Entities.DataTransferObjects
 {
-     public class MeetupForCreationDto
+    public class MeetupForCreationDto
     {
         [Required(ErrorMessage = "Title is required")]
         [StringLength(50, ErrorMessage = "Title can't be longer than 50 characters")]

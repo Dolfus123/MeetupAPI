@@ -1,13 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Contracts;
+using Entities.DataTransferObjects;
+using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Contracts;
-using AutoMapper;
-using Entities.DataTransferObjects;
-using Entities.Models;
 
 namespace MeetupAPI.Controllers
 {

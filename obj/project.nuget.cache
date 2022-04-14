@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rbwHPKef3ewedSyzFQpyEU8UU3lNmKd6UPlpkkSBxUqv3oA1bKQWZQ7tY0NcMF6rwFEKdjvDmwKX9vtbZqr/qQ==",
+  "dgSpecHash": "r33hGrzqUVpKd+zpwt22LYlwyQMRRk2kP58Vxpi4enEkpgv1UUJxvXPxeLJqJQ0ZwuwCap+0ee7TwQXJKKIDXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\MeetupAPI.csproj",
+  "projectFilePath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.14.1\\MeetupAPI\\MeetupAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евдоченко\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
@@ -25,12 +25,10 @@
     "C:\\Users\\Евдоченко\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Евдоченко\\.nuget\\packages\\mysqlconnector\\1.3.13\\mysqlconnector.1.3.13.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.10\\npgsql.entityframeworkcore.postgresql.5.0.10.nupkg.sha512",
-    "C:\\Users\\Евдоченко\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\5.0.4\\pomelo.entityframeworkcore.mysql.5.0.4.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
