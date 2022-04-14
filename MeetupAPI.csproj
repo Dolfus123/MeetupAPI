@@ -5,6 +5,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Contracts\**" />
+    <Compile Remove="Entities\**" />
+    <Compile Remove="LoggerService\**" />
+    <Compile Remove="Repository\**" />
+    <Content Remove="Contracts\**" />
+    <Content Remove="Entities\**" />
+    <Content Remove="LoggerService\**" />
+    <Content Remove="Repository\**" />
+    <EmbeddedResource Remove="Contracts\**" />
+    <EmbeddedResource Remove="Entities\**" />
+    <EmbeddedResource Remove="LoggerService\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Contracts\**" />
+    <None Remove="Entities\**" />
+    <None Remove="LoggerService\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.16">
       <PrivateAssets>all</PrivateAssets>
@@ -16,8 +35,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LoggerService\LoggerService.csproj" />
-    <ProjectReference Include="..\Repository\Repository.csproj" />
+    <ProjectReference Include="LoggerService\LoggerService.csproj" />
+    <ProjectReference Include="Repository\Repository.csproj" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>

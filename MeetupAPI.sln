@@ -8,13 +8,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeetupAPI", "MeetupAPI.cspr
 		{FA03D01A-B0FB-431A-9380-03FDA0457855} = {FA03D01A-B0FB-431A-9380-03FDA0457855}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "..\Entities\Entities.csproj", "{40B13936-6DCC-4DC1-AC53-E18850D81B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{40B13936-6DCC-4DC1-AC53-E18850D81B17}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "..\Contracts\Contracts.csproj", "{D2AD7174-5B99-45B9-9260-A0683D1AC708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Contracts\Contracts.csproj", "{D2AD7174-5B99-45B9-9260-A0683D1AC708}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "..\LoggerService\LoggerService.csproj", "{FA03D01A-B0FB-431A-9380-03FDA0457855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggerService", "LoggerService\LoggerService.csproj", "{FA03D01A-B0FB-431A-9380-03FDA0457855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\Repository\Repository.csproj", "{7E3D19B6-7E6C-41DC-970C-258D416E9324}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{7E3D19B6-7E6C-41DC-970C-258D416E9324}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

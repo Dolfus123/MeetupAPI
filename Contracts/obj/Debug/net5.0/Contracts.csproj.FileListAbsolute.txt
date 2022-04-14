@@ -1,0 +1,13 @@
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\bin\Debug\net5.0\Entities.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\bin\Debug\net5.0\Entities.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\Contracts\obj\Debug\net5.0\Contracts.pdb

@@ -1304,23 +1304,23 @@
     },
     "Contracts/1.0.0": {
       "type": "project",
-      "path": "../Contracts/Contracts.csproj",
-      "msbuildProject": "../Contracts/Contracts.csproj"
+      "path": "Contracts/Contracts.csproj",
+      "msbuildProject": "Contracts/Contracts.csproj"
     },
     "Entities/1.0.0": {
       "type": "project",
-      "path": "../Entities/Entities.csproj",
-      "msbuildProject": "../Entities/Entities.csproj"
+      "path": "Entities/Entities.csproj",
+      "msbuildProject": "Entities/Entities.csproj"
     },
     "LoggerService/1.0.0": {
       "type": "project",
-      "path": "../LoggerService/LoggerService.csproj",
-      "msbuildProject": "../LoggerService/LoggerService.csproj"
+      "path": "LoggerService/LoggerService.csproj",
+      "msbuildProject": "LoggerService/LoggerService.csproj"
     },
     "Repository/1.0.0": {
       "type": "project",
-      "path": "../Repository/Repository.csproj",
-      "msbuildProject": "../Repository/Repository.csproj"
+      "path": "Repository/Repository.csproj",
+      "msbuildProject": "Repository/Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1340,11 +1340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\MeetupAPI\\MeetupAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\MeetupAPI.csproj",
       "projectName": "MeetupAPI",
-      "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\MeetupAPI\\MeetupAPI.csproj",
+      "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\MeetupAPI.csproj",
       "packagesPath": "C:\\Users\\Евдоченко\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\MeetupAPI\\obj\\",
+      "outputPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Евдоченко\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1361,11 +1361,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\Repository\\Repository.csproj"
+            "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\Repository\\Repository.csproj"
             }
           }
         }

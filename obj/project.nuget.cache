@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYgdmRnLWBop2Xli65NMSU9T/KHW3pxIkEdXXm6IgdXSDVGDFVco2sWXMGA7DVTjPCUABDQKVzDw8aM0VAuQlQ==",
+  "dgSpecHash": "rbwHPKef3ewedSyzFQpyEU8UU3lNmKd6UPlpkkSBxUqv3oA1bKQWZQ7tY0NcMF6rwFEKdjvDmwKX9vtbZqr/qQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.12\\MeetupAPI\\MeetupAPI.csproj",
+  "projectFilePath": "C:\\Users\\Евдоченко\\Desktop\\meetup 1.13\\MeetupAPI\\MeetupAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Евдоченко\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Евдоченко\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
