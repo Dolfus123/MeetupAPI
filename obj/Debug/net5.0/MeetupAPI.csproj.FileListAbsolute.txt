@@ -1,219 +1,3 @@
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.AssemblyReference.cache
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.GeneratedMSBuildEditorConfig.editorconfig
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfoInputs.cache
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfo.cs
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CoreCompileInputs.cache
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cs
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cache
-K:\meetup\MeetupAPI\bin\Debug\net5.0\nlog.config
-K:\meetup\MeetupAPI\bin\Debug\net5.0\appsettings.Development.json
-K:\meetup\MeetupAPI\bin\Debug\net5.0\appsettings.json
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.exe
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.deps.json
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.json
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.dev.json
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\ref\MeetupAPI.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.pdb
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\MySqlConnector.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\NLog.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Contracts.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Entities.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\LoggerService.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Entities.pdb
-K:\meetup\MeetupAPI\bin\Debug\net5.0\LoggerService.pdb
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Contracts.pdb
-K:\meetup\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.Manifest.cache
-K:\meetup\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.xml
-K:\meetup\MeetupAPI\obj\Debug\net5.0\scopedcss\bundle\MeetupAPI.styles.css
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.RazorTargetAssemblyInfo.cache
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CopyComplete
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
-K:\meetup\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
-K:\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.genruntimeconfig.cache
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Repository.dll
-K:\meetup\MeetupAPI\bin\Debug\net5.0\Repository.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\nlog.config
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\appsettings.json
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.exe
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.deps.json
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.json
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.dev.json
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\MySqlConnector.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\NLog.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Contracts.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Entities.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\LoggerService.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Repository.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\LoggerService.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Repository.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Contracts.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\bin\Debug\net5.0\Entities.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.AssemblyReference.cache
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfoInputs.cache
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CoreCompileInputs.cache
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.Manifest.cache
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.xml
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\scopedcss\bundle\MeetupAPI.styles.css
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.RazorTargetAssemblyInfo.cache
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CopyComplete
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup\MeetupAPI\obj\Debug\net5.0\MeetupAPI.genruntimeconfig.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\nlog.config
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\appsettings.json
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MeetupAPI.exe
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MeetupAPI.deps.json
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.json
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.dev.json
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\MySqlConnector.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\NLog.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Npgsql.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Contracts.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Entities.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\LoggerService.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Repository.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\LoggerService.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Repository.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Contracts.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\bin\Debug\net5.0\Entities.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.AssemblyReference.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfoInputs.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CoreCompileInputs.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.Manifest.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.xml
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\scopedcss\bundle\MeetupAPI.styles.css
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.RazorTargetAssemblyInfo.cache
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CopyComplete
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.11\MeetupAPI\obj\Debug\net5.0\MeetupAPI.genruntimeconfig.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\nlog.config
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\appsettings.json
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MeetupAPI.exe
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MeetupAPI.deps.json
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.json
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MeetupAPI.runtimeconfig.dev.json
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Humanizer.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\MySqlConnector.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\NLog.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Npgsql.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Contracts.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Entities.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\LoggerService.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Repository.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\LoggerService.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Repository.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Contracts.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\bin\Debug\net5.0\Entities.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.AssemblyReference.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfoInputs.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CoreCompileInputs.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.Manifest.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.xml
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\scopedcss\bundle\MeetupAPI.styles.css
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.RazorTargetAssemblyInfo.cache
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CopyComplete
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.12\MeetupAPI\obj\Debug\net5.0\MeetupAPI.genruntimeconfig.cache
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.AssemblyReference.cache
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfoInputs.cache
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CoreCompileInputs.cache
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\nlog.config
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\appsettings.json
@@ -224,6 +8,7 @@ C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Meetu
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\MeetupAPI.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\ref\MeetupAPI.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\MeetupAPI.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\MeetupAPI.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Humanizer.dll
@@ -252,12 +37,27 @@ C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Entit
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\LoggerService.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Repository.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\LoggerService.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Repository.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Repository.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Contracts.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\bin\Debug\net5.0\Entities.xml
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.AssemblyReference.cache
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfoInputs.cache
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.AssemblyInfo.cs
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CoreCompileInputs.cache
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.Manifest.cache
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\staticwebassets\MeetupAPI.StaticWebAssets.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\scopedcss\bundle\MeetupAPI.styles.css
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.csproj.CopyComplete
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\ref\MeetupAPI.dll
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.xml
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.pdb
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\obj\Debug\net5.0\MeetupAPI.genruntimeconfig.cache

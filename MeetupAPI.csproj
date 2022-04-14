@@ -2,7 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-  </PropertyGroup>
+	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+	  
+	  <NoWarn>$(NoWarn);1591</NoWarn>
+	</PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="Contracts\**" />
@@ -22,6 +25,9 @@
     <None Remove="LoggerService\**" />
     <None Remove="Repository\**" />
   </ItemGroup>
+  
+
+  
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />

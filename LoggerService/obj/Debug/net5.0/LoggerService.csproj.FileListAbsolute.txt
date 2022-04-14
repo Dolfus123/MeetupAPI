@@ -2,12 +2,17 @@ C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debu
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\LoggerService.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\ref\LoggerService.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\LoggerService.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\LoggerService.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\Contracts.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\Entities.dll
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\Contracts.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\Entities.pdb
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\bin\Debug\net5.0\Entities.xml
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.csproj.AssemblyReference.cache
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.AssemblyInfo.cs
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CoreCompileInputs.cache
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.csproj.CopyComplete
 C:\Users\Евдоченко\Desktop\meetup 1.13\MeetupAPI\LoggerService\obj\Debug\net5.0\LoggerService.dll

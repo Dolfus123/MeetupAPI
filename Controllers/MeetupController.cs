@@ -24,6 +24,12 @@ namespace MeetupAPI.Controllers
             _repository = repository;
             _mapper = mapper;
         }
+
+        /// <summary>
+        /// Returned all meetups from database.
+        /// </summary>
+        /// <response code="201">Meetups received</response>
+        
         [HttpGet]
         public IActionResult GetAllMeetups()
         {
@@ -42,6 +48,12 @@ namespace MeetupAPI.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        /// <summary>
+        /// Returned meetup by id.
+        /// </summary>
+        /// <response code="201">Returned meetup by id</response>
+        /// <response code="400">If the item is null</response>
 
         [HttpGet("{id}", Name = "MeetupById") ]
         public IActionResult GetMeetupById (Guid id)
@@ -72,6 +84,12 @@ namespace MeetupAPI.Controllers
             }
         }
 
+        /// <summary>
+        /// Returned meetup with details for id.
+        /// </summary>
+        /// <response code="201">Returned meetup with details for id</response>
+        /// <response code="400">If the item is null</response>
+
         [HttpGet("{id}/account")]
         public IActionResult GetMeetupWithDetails(Guid id)
         {
@@ -97,11 +115,13 @@ namespace MeetupAPI.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
         /// <summary>
         /// Creates a Meetup.
         /// </summary>
         /// <response code="201">Returns the newly created item</response>
         /// <response code="400">If the item is null</response>
+        
         [HttpPost]
         public IActionResult CreateMeetup([FromBody] MeetupForCreationDto meetup)
         {
@@ -129,6 +149,12 @@ namespace MeetupAPI.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
+        /// <summary>
+        /// Сhange a Meetup.
+        /// </summary>
+        /// <response code="201">Meetup changed</response>
+        /// <response code="400">If the item is null</response>
 
         [HttpPut("{id}")]
         public IActionResult UpdateMeetup(Guid id, [FromBody] MeetupForUpdateDto meetup)
@@ -162,9 +188,13 @@ namespace MeetupAPI.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
+
         /// <summary>
         /// Deletes a specific Meetup.
         /// </summary>
+        /// <response code="201">Meetup deleted</response>
+        /// <response code="400">If the item is null</response>
+        
         [HttpDelete("{id}")]
         public IActionResult DeleteMeetup(Guid id)
         {
